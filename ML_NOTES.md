@@ -1,6 +1,6 @@
 # Machine Learning: The Complete Mathematical & Practical Guide
 
-> **The World's Most Comprehensive Machine Learning Reference**
+> **Comprehensive Machine Learning Reference**
 > 
 > From fundamental concepts to advanced techniques, with real-world case studies and complete mathematical derivations.
 
